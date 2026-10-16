@@ -1,2 +1,2 @@
-Statisk sajt för Inte Utrikes: startsida, integritetspolicy, villkor och TikTok-inloggningens återhoppssida.
-Publiceras som GitHub Pages (https://<konto>.github.io/inteutrikes/). TikToks verifieringsfil (signature) läggs i samma mapp.
+Statisk sajt för Inte Utrikes: startsida, integritetspolicy och villkor.
+Publiceras som GitHub Pages (https://isik4ever.github.io/inteutrikes/).
